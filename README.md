@@ -8,7 +8,7 @@ I used Gradient Boosting Regressor for this competition as it gave me the lower 
 
 ## Results
 
-![alt text](https://github.com/mrplooply/predict_house_prices/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/mrplooply/predict_house_prices/blob/main/test.png?raw=true)
 
 ## Improvements
 
